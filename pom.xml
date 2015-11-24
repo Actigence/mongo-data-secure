@@ -18,7 +18,7 @@
         <dependency>
             <groupId>org.springframework.data</groupId>
             <artifactId>spring-data-mongodb</artifactId>
-            <version>1.8.1.RELEASE</version>
+            <version>1.6.4.RELEASE</version>
         </dependency>
     </dependencies>
 </project>

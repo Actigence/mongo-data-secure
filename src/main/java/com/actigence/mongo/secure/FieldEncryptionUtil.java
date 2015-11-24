@@ -17,7 +17,7 @@ public class FieldEncryptionUtil {
     private static final Logger log = LoggerFactory.getLogger(FieldEncryptionUtil.class);
 
     private static final String ENCRYPTION_KEY_ENV_VARIABLE = "PHMS_ENCRYPTION_KEY";
-    private static final String ENCRYPTION_KEY_DEFAULT = "khsddhsuijkw87823487u*&^&&*87";
+    private static final String ENCRYPTION_KEY_DEFAULT = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx";
     private static final String ALGORITHM = "AES";
 
     private static String PASSWORD;
